@@ -1,0 +1,14 @@
+/* src/components/NotFound.css */
+.not-found {
+  padding: 20px;
+  text-align: center;
+}
+
+.not-found h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.not-found p {
+  font-size: 24px;
+}
